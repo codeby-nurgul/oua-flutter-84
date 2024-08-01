@@ -1,0 +1,1 @@
+ C:\\Users\\Nurgul2\\Desktop\\FocusNote\\.dart_tool\\flutter_build\\ff2dc0d38b90319359d66253f5bdf0af\\native_assets.yaml: 

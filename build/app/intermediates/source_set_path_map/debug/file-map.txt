@@ -1,0 +1,12 @@
+com.example.flutter_application_1.app-jetified-window-1.0.0-beta04-0 C:\Users\Nurgul2\.gradle\caches\transforms-3\4ed09b80554666fe568bba0e0475894f\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_application_1.app-jetified-annotation-experimental-1.1.0-1 C:\Users\Nurgul2\.gradle\caches\transforms-3\609e42c8b73a2fcbbb0e63673ccea1a8\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_application_1.app-core-1.6.0-2 C:\Users\Nurgul2\.gradle\caches\transforms-3\7161e115e6642554c3e4a9f8b9422ac3\transformed\core-1.6.0\res
+com.example.flutter_application_1.app-jetified-window-java-1.0.0-beta04-3 C:\Users\Nurgul2\.gradle\caches\transforms-3\d5baea7140e36056cbb265d288a90777\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_application_1.app-debug-4 C:\Users\Nurgul2\Desktop\FocusNote\android\app\src\debug\res
+com.example.flutter_application_1.app-main-5 C:\Users\Nurgul2\Desktop\FocusNote\android\app\src\main\res
+com.example.flutter_application_1.app-pngs-6 C:\Users\Nurgul2\Desktop\FocusNote\build\app\generated\res\pngs\debug
+com.example.flutter_application_1.app-resValues-7 C:\Users\Nurgul2\Desktop\FocusNote\build\app\generated\res\resValues\debug
+com.example.flutter_application_1.app-rs-8 C:\Users\Nurgul2\Desktop\FocusNote\build\app\generated\res\rs\debug
+com.example.flutter_application_1.app-mergeDebugResources-9 C:\Users\Nurgul2\Desktop\FocusNote\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_application_1.app-mergeDebugResources-10 C:\Users\Nurgul2\Desktop\FocusNote\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_application_1.app-merged_res-11 C:\Users\Nurgul2\Desktop\FocusNote\build\app\intermediates\merged_res\debug
